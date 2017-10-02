@@ -1,0 +1,30 @@
+
+
+.addbtn {
+    position: fixed;
+    bottom: 20px;
+    right: 40px;
+}
+
+
+.page-header{
+	background-color: lightgrey;
+	margin-top: 0;
+	padding:0;
+}
+
+.header_border{
+	border-bottom-style:hidden;
+	border: 4px solid black;
+	margin-bottom:0;
+}
+
+.border{
+	border-left: 4px solid black !important;
+}
+
+.burger{
+	position:fixed !important;
+	left:10;
+}
+
