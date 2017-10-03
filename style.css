@@ -6,8 +6,12 @@
     right: 40px;
 }
 
+.container{
+	left:0;
+	right:0;
+}
 
-.page-header{
+.navbar-fixed-top{
 	background-color: lightgrey;
 	margin-top: 0;
 	padding:0;
@@ -19,12 +23,21 @@
 	margin-bottom:0;
 }
 
+.textoPrincipal{
+	font-size:40px;
+}
+
 .border{
 	border-left: 4px solid black !important;
 }
 
+.main {
+    margin-top: 100px; /* Add a top margin to avoid content overlay */
+}
+
 .burger{
 	position:fixed !important;
-	left:10;
+	left:2px;
 }
+
 
